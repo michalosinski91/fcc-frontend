@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color: red;
+    text-align: center;
+    font-family: 'Patua One', cursive;
+    font-size: 1em;
+}
+
+.adjust {
+    display: inline-block;
+    padding: 3%;
+}
+
+.adjust p {
+    display: inline;
+    font-size: 1.5em;
+    padding: 5%;
+}
+
+.adjust h4 {
+    font-size: 1.5em;
+}
+
+.start {
+    font-size: 1.15em;
+    border: 3px solid red;
+    width: 15%;
+    margin: auto;
+    
+}
+
+.timer {
+    font-size: 3em;
+    font-family: 'Oswald', sans-serif;
+}
+
+#status {
+    font-size: 0.5em;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+footer {
+    padding: 2.5%;
+}
