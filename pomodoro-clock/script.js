@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function(){ 
     var session = 0;
     var alarm = new Audio("gong.mp3");
-    var sessionTime = 1;
-    var breakTime = 1;
+    var sessionTime = 25;
+    var breakTime = 5;
     var sessionLength = document.getElementById("sessionLength");
     sessionLength.innerHTML = sessionTime;
     var breakLength = document.getElementById("breakLength");
